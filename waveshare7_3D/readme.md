@@ -1,3 +1,3 @@
-![Top](/top.png)
-![Bottom](/bottom.png)
-![Topplate](/topplate.png)
+![Top](top.png)
+![Bottom](bottom.png)
+![Topplate](topplate.png)
