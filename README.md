@@ -24,24 +24,7 @@ This project is specifically designed for the following hardware:
 
 ## Software & Dependencies
 
-The project is built using the Arduino IDE with the ESP32 board package.
-
-### Libraries
-
-You will need to install the following libraries through the Arduino Library Manager:
-
-*   **LovyanGFX** by lovyan03
-*   **LVGL** by LVGL Kft. (v8.4.0 is used in this project)
-*   **esp_io_expander** by Espressif
-
-### Build Environment
-
-*   **Arduino IDE**: Version 2.x recommended.
-*   **ESP32 Board Package**: Version 2.0.17 or newer.
-*   **C++ Standard**: This project requires C++17. You must modify the ESP32 platform configuration to enable it.
-
-## Setup and Installation
-*   Please read the README.md file in "sketch" folder
+Plase read README.md file in "sketch" folder
 
 ## How to Play
 
