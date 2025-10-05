@@ -1,7 +1,4 @@
 # ESP32-S3 Mastermind Game
-
-!Mastermind Game on ESP32-S3
-
 ![front](/waveshare7_3D/front.png
 )
 
