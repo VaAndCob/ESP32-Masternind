@@ -1,6 +1,6 @@
 # ESP32-S3 Mastermind Game
-
-!Mastermind Game on ESP32-S3
+![front](/waveshare7_3D/front.png
+)
 
 This repository contains the source code for a classic Mastermind board game, implemented on the WaveShare 7-inch Touch LCD for the ESP32-S3. The project includes the game logic, user interface created with SquareLine Studio, and drivers for the specific hardware.
 
@@ -19,7 +19,7 @@ A custom 3D-printable case was also designed for this project to provide a clean
 
 This project is specifically designed for the following hardware:
 
-*   **Main Board**: WaveShare ESP32-S3 7-inch Capacitive Touch LCD (800x480)
+*   **Main Board**: [WaveShare ESP32-S3 7-inch Capacitive Touch LCD (800x480)](https://www.waveshare.com/7inch-capacitive-touch-lcd-f.htm)
 *   **3D-Printed Case**: The STL files for the case can be found in the `/3d-print` directory of this repository.
 
 ## Software & Dependencies
