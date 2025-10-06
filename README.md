@@ -1,5 +1,5 @@
 # ESP32-S3 Mastermind Game
-![Youtube](https://youtu.be/52tzvPDqIfw?si=axs0bUOGtEcWnW50)
+![Click to view youtube](https://youtu.be/52tzvPDqIfw?si=axs0bUOGtEcWnW50)
 ![front](/waveshare7_3D/front.png
 )
 
