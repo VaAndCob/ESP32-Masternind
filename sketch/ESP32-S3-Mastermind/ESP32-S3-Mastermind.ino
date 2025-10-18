@@ -7,6 +7,7 @@
  * Hardware: ESP32-S3 based + SDReader + PSRAM + 7' TFT ( 800x480) with Capacitive touch screen  https://esp3d.io/ESP3D-TFT/Version_1.X/hardware/esp32-s3/waveshare-70-8048
  * IDE: Arduino IDE 2.3.6
  * ESP32 Core: 2.0.17
+ * PSRAM: OPI PSRAM
  * Partition scheme: 8 MB with SPIFFS
  * PSRAM: OPI PSRAM
    REMARK: copy file "src/lv_conf.h"  into "Arduino/sketch/libraries"
